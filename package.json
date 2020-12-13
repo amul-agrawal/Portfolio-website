@@ -1,6 +1,6 @@
 {
-  "homepage": "https://amul-agrawal.github.io/Portfolio-website",
-  "name": "amul-agrawal.github.io",
+  "homepage": "https://amul-agrawal.herokuapp.com",
+  "name": "my-website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
