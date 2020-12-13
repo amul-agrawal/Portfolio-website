@@ -1,5 +1,8 @@
 A Portfolio website for me.
 
+## Deployment
+- https://amul-agrawal.herokuapp.com
+
 ## Technologies Used 
 
 - [React](https://reactjs.org/)
