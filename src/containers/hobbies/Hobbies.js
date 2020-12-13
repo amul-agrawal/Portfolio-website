@@ -21,7 +21,7 @@ export default function Hobbies() {
           <div className="hobby-image-div">
             <img
               alt="Amul Working"
-              src={require(`../../assets/images/manlisteningmusic.svg`)}
+              src={`./hobbies/${hobbyDetails[idx].url}`}
               style={{ width: "100%", height: "500px" }}
               ></img>
           </div>
